@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Inter&family=Source+Code+Pro&display=swap');
+
+/*font-family: 'DM Sans', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Source Code Pro', monospace;*/
+
+body {
+    font-family:'Inter', sans-serif;
+    background-color:#222;
+    color:#FFF;
+}
+a{
+    color:#FFF;
+    text-decoration:none;
+    font-family: 'Source Code Pro', monospace;
+}
+a:hover{
+    color:#1cd96a;
+    text-decoration:underline;
+    font-family: 'Source Code Pro', monospace;
+}
