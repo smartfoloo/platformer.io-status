@@ -21,4 +21,10 @@ a:hover{
 }
 .main-link{
     background-color:blueviolet;
+    text-align:center;
+    border-radius:20px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    height:20%;
 }
